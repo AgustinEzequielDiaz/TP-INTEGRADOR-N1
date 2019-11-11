@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1569528300 source:c:\users\usuario\desktop\utn-frgp\1er a—o\2do cuatrimestre\laboratorio ii\tp integrador 1\main.cpp
+	<iostream>
+	<stdlib.h>
+	"funciones.h"
+	<windows.h>
+	<stdio.h>
+
+1569538562 c:\users\usuario\desktop\utn-frgp\1er a—o\2do cuatrimestre\laboratorio ii\tp integrador 1\funciones.h
+	"funciones2.h"
+	<stdio.h>
+	<conio.h>
+	<cstdlib>
+
+1569539749 c:\users\usuario\desktop\utn-frgp\1er a—o\2do cuatrimestre\laboratorio ii\tp integrador 1\funciones2.h
+	<cstdio>
+	<cstring>
+	<windows.h>
+	<iomanip>
+	"funciones.h"
+
